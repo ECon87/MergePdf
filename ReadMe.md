@@ -4,10 +4,7 @@ Allows to reorder/delete files (to delete simply do not select when asked if hap
 
 
 ## Dependencies
-```
-PyPDF2
-prompt_toolkit
-pathlib
-re
-```
-
+- `PyPDF2`
+- `prompt_toolkit`
+- `pathlib`
+- `re`
